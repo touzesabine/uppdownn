@@ -28,11 +28,11 @@ status-website:
   name: Uppdownn
   introTitle: "Upptime with Github test2"
   introMessage: So, are these websites working right now, yes or no?
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  #navbar:
+    #- title: Status
+    #  href: /
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
       
   workflowSchedule:
   graphs: "* * * * *"
