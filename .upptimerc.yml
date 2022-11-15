@@ -29,8 +29,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Upptime with Github test"
-  introMessage:  Are these websites working right now, yes or no?
+  introTitle: "Upptime with Github test2"
+  introMessage: So, are these websites working right now, yes or no?
   navbar:
     - title: Status
       href: /
