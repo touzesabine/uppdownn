@@ -26,7 +26,7 @@ status-website:
   baseUrl: /uppdownn
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uppdownn
-  introTitle: "Upptime with Github test2"
+  introTitle: "CSC uptime/downtime status"
   introMessage: So, are these websites working right now, yes or no?
   #navbar:
     #- title: Status
@@ -35,7 +35,7 @@ status-website:
     #  href: https://github.com/$OWNER/$REPO
   
   status-website:
-  css: "input.svelte-fqsq6s {display:none}; .svelte-fqsq6s {background:none}"
+  css: "form.f.r.svelte-fqsq6s {display:none};"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
