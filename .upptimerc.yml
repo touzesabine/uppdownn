@@ -35,7 +35,7 @@ status-website:
     #  href: https://github.com/$OWNER/$REPO
   
   status-website:
-  css: ".svelte-fqsq6s {display:none}"
+  css: "input.svelte-fqsq6s {display:none}; .svelte-fqsq6s {background:none}"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
