@@ -6,9 +6,6 @@ sites:
   - name: City of Santa Clara
     url: https://www.santaclaraca.gov
     maxResponseTime: 10000
-  - name: admin
-    url: $SITE1
-    maxResponseTime: 10000
   - name: Silicon Valley Animal Control Authority
     url: https://www.svaca.com
     maxResponseTime: 10000
