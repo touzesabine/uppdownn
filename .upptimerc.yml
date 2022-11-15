@@ -6,6 +6,11 @@ sites:
   - name: City of Santa Clara
     url: https://www.santaclaraca.gov
     maxResponseTime: 10000
+  - name: Admin
+    url: https://www.santaclaraca.gov/Admin
+  - name: E-mails
+    url: https://admin.govdelivery.com
+    maxResponseTime: 10000
   - name: Silicon Valley Animal Control Authority
     url: https://www.svaca.com
     maxResponseTime: 10000
@@ -18,6 +23,19 @@ sites:
   - name: Santa Clara City Library
     url: https://www.sclibrary.org
     maxResponseTime: 10000
+  - name: Cludo
+    url: https://my.cludo.com
+    maxResponseTime: 10000
+  - name: Accela
+    url: https://aca-prod.accela.com/santaclara
+    maxResponseTime: 10000
+  - name: Mark43
+    url: https://mark43.com/
+    maxResponseTime: 10000
+  - name: SiteImprove
+    url: https://id.siteimprove.com/Account/Login
+    maxResponseTime: 10000
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
