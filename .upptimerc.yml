@@ -1,37 +1,6 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@touzesabine
-touzesabine /
-upptime
-Public
-generated from upptime/upptime
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-upptime/.upptimerc.yml
-@touzesabine
-touzesabine Update .upptimerc.yml
-Latest commit 56d65a7 Nov 14, 2022
-History
-1 contributor
-41 lines (38 sloc) 1.35 KB
 # Change these first
 owner: touzesabine # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: uppdownn # The name of this repository
 
 sites:
   - name: City of Santa Clara
@@ -70,20 +39,3 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-upptime/.upptimerc.yml at master · touzesabine/upptime
