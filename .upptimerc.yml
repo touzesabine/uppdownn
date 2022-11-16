@@ -43,9 +43,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uppdownn
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Uppdownn
+  name: CSC Status Dashboard
   introTitle: "CSC uptime/downtime status"
-  introMessage: So, are these websites working right now, yes or no?
+  introMessage: Working websites
   #navbar:
     #- title: Status
     #  href: /
