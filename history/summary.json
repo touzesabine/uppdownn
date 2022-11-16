@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 716,
-    "timeWeek": 706,
-    "timeMonth": 706,
-    "timeYear": 706,
+    "time": 705,
+    "timeDay": 713,
+    "timeWeek": 705,
+    "timeMonth": 705,
+    "timeYear": 705,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 346,
-    "timeDay": 346,
-    "timeWeek": 346,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 687,
-    "timeWeek": 724,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "time": 727,
+    "timeDay": 694,
+    "timeWeek": 727,
+    "timeMonth": 727,
+    "timeYear": 727,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
+    "time": 596,
     "timeDay": 579,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 477,
-    "timeWeek": 472,
-    "timeMonth": 472,
-    "timeYear": 472,
+    "time": 474,
+    "timeDay": 479,
+    "timeWeek": 474,
+    "timeMonth": 474,
+    "timeYear": 474,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 486,
-    "timeWeek": 477,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "time": 486,
+    "timeDay": 498,
+    "timeWeek": 486,
+    "timeMonth": 486,
+    "timeYear": 486,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 133,
-    "timeDay": 133,
-    "timeWeek": 133,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "time": 132,
+    "timeDay": 132,
+    "timeWeek": 132,
+    "timeMonth": 132,
+    "timeYear": 132,
     "dailyMinutesDown": {}
   },
   {
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 333,
-    "timeWeek": 333,
-    "timeMonth": 333,
-    "timeYear": 333,
+    "time": 336,
+    "timeDay": 336,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
@@ -172,11 +172,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 386,
-    "timeWeek": 386,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "time": 376,
+    "timeDay": 376,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {}
   },
   {
@@ -190,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 419,
-    "timeWeek": 419,
-    "timeMonth": 419,
-    "timeYear": 419,
+    "time": 437,
+    "timeDay": 437,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   },
   {
@@ -214,7 +214,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-16": 87
+      "2022-11-16": 97
     }
   }
 ]
