@@ -35,6 +35,9 @@ sites:
   - name: SiteImprove
     url: https://id.siteimprove.com/Account/Login
     maxResponseTime: 10000
+  - name: none
+    url: https://ntohnh.lnh
+    maxResponseTime: 1000
     
 
 status-website:
