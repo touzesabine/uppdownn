@@ -51,8 +51,7 @@ status-website:
     #  href: /
     #- title: GitHub
     #  href: https://github.com/$OWNER/$REPO
-  css: "form.f.r.svelte-fqsq6s, #sapper > main > section.live-status.svelte-fqsq6s > article > div:nth-child(2), #sapper > main > section:has(> iframe) {display:none};"
-  
+  css: "form.f.r.svelte-fqsq6s, #sapper > main > section.live-status.svelte-fqsq6s > article > div:nth-child(2), #sapper > main > section:has(> iframe), section:has(> h2.svelte-18y4uo2) {display:none};"  
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
