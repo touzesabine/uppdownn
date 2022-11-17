@@ -15,7 +15,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
-      - name: Update summary in README
+      - name: Update summary in TEST
         uses: upptime/uptime-monitor@v1.28.0
         with:
           command: "readme"
