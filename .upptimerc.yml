@@ -18,6 +18,12 @@ sites:
   - name: Santa Clara City Library
     url: https://www.sclibrary.org
     maxResponseTime: 10000
+  - name: Legistar
+    url: https://santaclara.legistar.com/
+    maxResponseTime: 10000
+ - name: Accela
+    url: https://aca-prod.accela.com/santaclara
+    maxResponseTime: 10000
     
 
 status-website:
