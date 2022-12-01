@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "accela",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
     "time": 313,
     "timeDay": 516,
     "timeWeek": 323,
@@ -126,5 +126,43 @@
     "dailyMinutesDown": {
       "2022-11-19": 77
     }
+  },
+  {
+    "name": "Santa Clara County",
+    "url": "https://home.sccgov.org/home",
+    "icon": "https://icons.duckduckgo.com/ip3/home.sccgov.org.ico",
+    "slug": "santa-clara-county",
+    "status": "up",
+    "uptime": "7.59%",
+    "uptimeDay": "7.59%",
+    "uptimeWeek": "7.59%",
+    "uptimeMonth": "7.59%",
+    "uptimeYear": "7.59%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-01": 0
+    }
+  },
+  {
+    "name": "City of San Jose",
+    "url": "https://www.sanjoseca.gov/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.sanjoseca.gov.ico",
+    "slug": "city-of-san-jose",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
