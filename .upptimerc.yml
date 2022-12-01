@@ -24,7 +24,12 @@ sites:
   - name: Accela
     url: https://aca-prod.accela.com/santaclara
     maxResponseTime: 10000
-    
+  - name: Santa Clara County
+    url: https://home.sccgov.org/home
+    maxResponseTime: 10000
+  - name: City of San Jose
+    url: https://www.sanjoseca.gov/
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
