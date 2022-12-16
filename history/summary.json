@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 714,
     "timeDay": 613,
     "timeWeek": 667,
     "timeMonth": 706,
     "timeYear": 714,
-    "dailyMinutesDown": {
-      "2022-12-16": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Silicon Valley Power",
@@ -114,9 +112,9 @@
     "url": "https://aca-prod.accela.com/santaclara",
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "accela",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
@@ -126,6 +124,7 @@
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
+      "2022-12-16": 0,
       "2022-11-19": 77
     }
   },
@@ -146,7 +145,7 @@
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2022-12-16": 533,
+      "2022-12-16": 543,
       "2022-12-15": 1440,
       "2022-12-14": 1440,
       "2022-12-13": 1440,
@@ -170,18 +169,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sanjoseca.gov.ico",
     "slug": "city-of-san-jose",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 841,
     "timeDay": 783,
     "timeWeek": 810,
     "timeMonth": 841,
     "timeYear": 841,
-    "dailyMinutesDown": {
-      "2022-12-16": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
