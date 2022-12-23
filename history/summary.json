@@ -145,7 +145,7 @@
     "timeMonth": 302,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2022-12-23": 1214,
+      "2022-12-23": 1226,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
@@ -175,19 +175,19 @@
     "url": "https://www.sanjoseca.gov/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sanjoseca.gov.ico",
     "slug": "city-of-san-jose",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 553,
-    "timeWeek": 738,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 807,
+    "timeDay": 626,
+    "timeWeek": 742,
+    "timeMonth": 807,
+    "timeYear": 807,
     "dailyMinutesDown": {
-      "2022-12-23": 0
+      "2022-12-23": 13
     }
   }
 ]
