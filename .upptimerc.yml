@@ -1,0 +1,49 @@
+# Change these first
+owner: touzesabine # Your GitHub organization or username, where this repository lives
+repo: uppdownn # The name of this repository
+
+sites:
+  - name: City of Santa Clara
+    url: https://www.santaclaraca.gov
+    maxResponseTime: 10000
+  - name: Silicon Valley Animal Control Authority
+    url: https://www.svaca.com
+    maxResponseTime: 10000
+  - name: Silicon Valley Power
+    url: https://www.siliconvalleypower.com
+    maxResponseTime: 10000
+  - name: Fiber Connect
+    url: https://www.svpfiber.com
+    maxResponseTime: 10000
+  - name: Santa Clara City Library
+    url: https://www.sclibrary.org
+    maxResponseTime: 10000
+  - name: Legistar
+    url: https://santaclara.legistar.com/
+    maxResponseTime: 10000
+  - name: Accela
+    url: https://aca-prod.accela.com/santaclara
+    maxResponseTime: 10000
+  - name: Santa Clara County
+    url: https://home.sccgov.org/home
+    maxResponseTime: 10000
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /uppdownn
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: CSC Status Dashboard
+  introTitle: "CSC uptime/downtime status"
+  introMessage: Working websites
+  #navbar:
+    #- title: Status
+    #  href: /
+    #- title: GitHub
+    #  href: https://github.com/$OWNER/$REPO
+  css: "form.f.r.svelte-fqsq6s, #sapper > main > section.live-status.svelte-fqsq6s > article > div:nth-child(2), #sapper > main > section:has(> iframe), section:has(> h2.svelte-18y4uo2) {display:none};"  
+  # customHeadHtml: "<!-- Custom HTML to add in the <head> tag -->"
+  # customBodyHtml: ""
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
