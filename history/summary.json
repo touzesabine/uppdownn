@@ -4,19 +4,19 @@
     "url": "https://www.santaclaraca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.santaclaraca.gov.ico",
     "slug": "city-of-santa-clara",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 683,
-    "timeWeek": 743,
-    "timeMonth": 721,
-    "timeYear": 721,
+    "time": 720,
+    "timeDay": 690,
+    "timeWeek": 738,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
-      "2023-03-21": 0
+      "2023-03-21": 7
     }
   },
   {
@@ -159,7 +159,7 @@
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-03-21": 1353,
+      "2023-03-21": 1361,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
