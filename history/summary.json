@@ -4,9 +4,9 @@
     "url": "https://www.santaclaraca.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.santaclaraca.gov.ico",
     "slug": "city-of-santa-clara",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 743,
     "timeMonth": 721,
     "timeYear": 721,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   },
   {
     "name": "Silicon Valley Animal Control Authority",
@@ -101,7 +103,7 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 378,
-    "timeDay": 456,
+    "timeDay": 520,
     "timeWeek": 418,
     "timeMonth": 378,
     "timeYear": 378,
@@ -157,7 +159,7 @@
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2023-03-21": 32,
+      "2023-03-21": 1353,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
