@@ -40,18 +40,20 @@
     "url": "https://www.siliconvalleypower.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 714,
-    "timeDay": 1441,
-    "timeWeek": 714,
-    "timeMonth": 748,
-    "timeYear": 714,
-    "dailyMinutesDown": {}
+    "time": 704,
+    "timeDay": 857,
+    "timeWeek": 659,
+    "timeMonth": 734,
+    "timeYear": 704,
+    "dailyMinutesDown": {
+      "2023-04-13": 0
+    }
   },
   {
     "name": "Fiber Connect",
@@ -157,7 +159,7 @@
     "timeMonth": 310,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-04-13": 29,
+      "2023-04-13": 78,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
