@@ -85,9 +85,9 @@
     "url": "https://www.sclibrary.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -97,6 +97,7 @@
     "timeMonth": 571,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2023-05-19": 0,
       "2023-04-21": 21
     }
   },
@@ -128,12 +129,12 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.86%",
     "time": 512,
     "timeDay": 414,
-    "timeWeek": 352,
+    "timeWeek": 346,
     "timeMonth": 674,
     "timeYear": 512,
     "dailyMinutesDown": {
@@ -169,7 +170,7 @@
     "timeMonth": 351,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2023-05-19": 32,
+      "2023-05-19": 474,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
