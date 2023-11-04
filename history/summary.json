@@ -143,9 +143,9 @@
     "url": "https://santaclara.legistar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/santaclara.legistar.com.ico",
     "slug": "legistar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -155,6 +155,7 @@
     "timeMonth": 357,
     "timeYear": 341,
     "dailyMinutesDown": {
+      "2023-11-04": 0,
       "2023-02-25": 15
     }
   },
@@ -165,12 +166,12 @@
     "slug": "accela",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.82%",
     "time": 771,
-    "timeDay": 270,
+    "timeDay": 303,
     "timeWeek": 320,
     "timeMonth": 757,
     "timeYear": 771,
@@ -228,7 +229,7 @@
     "timeMonth": 538,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2023-11-04": 29,
+      "2023-11-04": 1281,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
