@@ -1,7 +1,7 @@
 url: https://www.siliconvalleypower.com
-status: up
-code: 200
-responseTime: 570
-lastUpdated: 2023-11-08T01:35:52.662Z
+status: down
+code: 503
+responseTime: 500
+lastUpdated: 2023-11-08T02:07:54.626Z
 startTime: 2022-11-15T01:06:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
