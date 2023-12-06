@@ -179,9 +179,9 @@
     "url": "https://aca-prod.accela.com/santaclara",
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "accela",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.84%",
@@ -191,6 +191,7 @@
     "timeMonth": 266,
     "timeYear": 712,
     "dailyMinutesDown": {
+      "2023-12-06": 0,
       "2023-11-29": 15,
       "2023-11-15": 23,
       "2023-11-03": 21,
@@ -245,7 +246,7 @@
     "timeMonth": 833,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2023-12-06": 32,
+      "2023-12-06": 233,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
