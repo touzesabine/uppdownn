@@ -1,7 +1,7 @@
 url: https://www.svpfiber.com
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2024-01-19T23:46:40.887Z
+status: down
+code: 503
+responseTime: 357
+lastUpdated: 2024-01-19T23:54:28.814Z
 startTime: 2022-11-15T01:06:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
