@@ -1,7 +1,7 @@
 url: https://www.svaca.com
-status: up
-code: 200
-responseTime: 1033
-lastUpdated: 2024-01-20T10:53:16.383Z
+status: down
+code: 503
+responseTime: 363
+lastUpdated: 2024-01-20T11:30:42.331Z
 startTime: 2022-11-15T01:06:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
