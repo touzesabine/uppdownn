@@ -38,10 +38,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "92.56%",
-    "uptimeWeek": "97.36%",
-    "uptimeMonth": "99.39%",
+    "uptime": "99.85%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.82%",
     "time": 778,
     "timeDay": 689,
@@ -49,7 +49,7 @@
     "timeMonth": 728,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-01-20": 108,
+      "2024-01-20": 100,
       "2024-01-19": 160,
       "2023-11-10": 16,
       "2023-11-08": 141,
@@ -72,7 +72,7 @@
     "slug": "silicon-valley-power",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "91.28%",
+    "uptimeDay": "93.80%",
     "uptimeWeek": "96.76%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.80%",
@@ -105,9 +105,9 @@
     "slug": "fiber-connect",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "87.43%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "90.49%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.81%",
     "time": 547,
     "timeDay": 508,
@@ -115,7 +115,7 @@
     "timeMonth": 492,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-01-20": 181,
+      "2024-01-20": 173,
       "2024-01-19": 160,
       "2023-11-10": 21,
       "2023-11-08": 151,
@@ -136,7 +136,7 @@
     "slug": "santa-clara-city-library",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "91.97%",
+    "uptimeDay": "94.50%",
     "uptimeWeek": "96.82%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.82%",
@@ -259,7 +259,8 @@
     "timeMonth": 531,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2024-01-20": 1439,
+      "2024-01-21": 35,
+      "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
@@ -622,8 +623,7 @@
       "2023-01-25": 1440,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
-      "2023-01-22": 1440,
-      "2023-01-21": 1440
+      "2023-01-22": 1440
     }
   }
 ]
