@@ -120,7 +120,7 @@
     "time": 535,
     "timeDay": 235,
     "timeWeek": 307,
-    "timeMonth": 436,
+    "timeMonth": 431,
     "timeYear": 535,
     "dailyMinutesDown": {
       "2024-01-25": 29,
@@ -154,7 +154,7 @@
     "time": 587,
     "timeDay": 377,
     "timeWeek": 403,
-    "timeMonth": 504,
+    "timeMonth": 497,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2024-01-25": 29,
@@ -206,9 +206,9 @@
     "url": "https://aca-prod.accela.com/santaclara",
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "accela",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.82%",
@@ -218,6 +218,7 @@
     "timeMonth": 651,
     "timeYear": 644,
     "dailyMinutesDown": {
+      "2024-02-21": 0,
       "2024-02-09": 48,
       "2024-01-31": 37,
       "2024-01-21": 16,
@@ -276,7 +277,7 @@
     "timeMonth": 766,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-02-21": 30,
+      "2024-02-21": 206,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
