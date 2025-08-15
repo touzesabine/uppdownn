@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.santaclaraca.gov.ico",
     "slug": "city-of-santa-clara",
     "status": "down",
-    "uptime": "55.58%",
+    "uptime": "55.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 265,
-    "timeDay": 65,
-    "timeWeek": 264,
+    "time": 263,
+    "timeDay": 175,
+    "timeWeek": 234,
     "timeMonth": 233,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-08-14": 51,
+      "2025-08-15": 51,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -379,8 +380,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
-    "uptime": "55.57%",
+    "uptime": "55.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 258,
-    "timeDay": 179,
-    "timeWeek": 266,
-    "timeMonth": 280,
-    "timeYear": 231,
+    "timeDay": 378,
+    "timeWeek": 253,
+    "timeMonth": 283,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-08-14": 51,
+      "2025-08-15": 51,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -763,8 +764,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
     "status": "down",
-    "uptime": "55.57%",
+    "uptime": "55.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 265,
-    "timeDay": 115,
-    "timeWeek": 263,
-    "timeMonth": 247,
+    "time": 264,
+    "timeDay": 306,
+    "timeWeek": 264,
+    "timeMonth": 248,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2025-08-14": 51,
+      "2025-08-15": 51,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1147,8 +1148,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svpfiber.com.ico",
     "slug": "fiber-connect",
     "status": "down",
-    "uptime": "55.57%",
+    "uptime": "55.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 239,
-    "timeDay": 123,
-    "timeWeek": 255,
-    "timeMonth": 236,
+    "time": 238,
+    "timeDay": 175,
+    "timeWeek": 230,
+    "timeMonth": 233,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2025-08-14": 51,
+      "2025-08-15": 51,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1531,8 +1532,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
     "status": "down",
-    "uptime": "55.57%",
+    "uptime": "55.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 314,
-    "timeDay": 191,
+    "time": 313,
+    "timeDay": 474,
     "timeWeek": 355,
-    "timeMonth": 344,
+    "timeMonth": 349,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2025-08-14": 51,
+      "2025-08-15": 51,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -1915,8 +1916,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   },
   {
@@ -1930,11 +1930,11 @@
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "96.29%",
-    "time": 493,
-    "timeDay": 493,
-    "timeWeek": 932,
-    "timeMonth": 520,
-    "timeYear": 348,
+    "time": 494,
+    "timeDay": 530,
+    "timeWeek": 943,
+    "timeMonth": 528,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2025-08-10": 31,
       "2025-08-08": 41,
@@ -1980,10 +1980,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.70%",
-    "time": 618,
-    "timeDay": 258,
-    "timeWeek": 266,
-    "timeMonth": 283,
+    "time": 619,
+    "timeDay": 465,
+    "timeWeek": 296,
+    "timeMonth": 290,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2025-07-25": 56,
@@ -2035,12 +2035,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 322,
-    "timeDay": 173,
-    "timeWeek": 265,
-    "timeMonth": 244,
+    "timeDay": 223,
+    "timeWeek": 270,
+    "timeMonth": 242,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-08-14": 51,
+      "2025-08-15": 52,
+      "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
@@ -2403,8 +2404,7 @@
       "2024-08-19": 1440,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
-      "2024-08-16": 1440,
-      "2024-08-15": 1440
+      "2024-08-16": 1440
     }
   }
 ]
