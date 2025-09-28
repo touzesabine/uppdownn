@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.santaclaraca.gov.ico",
     "slug": "city-of-santa-clara",
     "status": "down",
-    "uptime": "53.24%",
+    "uptime": "53.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 254,
-    "timeDay": 386,
-    "timeWeek": 209,
-    "timeMonth": 215,
+    "timeDay": 108,
+    "timeWeek": 194,
+    "timeMonth": 207,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-09-27": 154,
+      "2025-09-28": 50,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -379,8 +380,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
-    "uptime": "53.24%",
+    "uptime": "53.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 250,
-    "timeDay": 244,
-    "timeWeek": 253,
-    "timeMonth": 241,
+    "timeDay": 116,
+    "timeWeek": 236,
+    "timeMonth": 234,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2025-09-27": 154,
+      "2025-09-28": 50,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -763,8 +764,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
     "status": "down",
-    "uptime": "53.23%",
+    "uptime": "53.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 260,
-    "timeDay": 241,
-    "timeWeek": 310,
-    "timeMonth": 269,
-    "timeYear": 242,
+    "time": 259,
+    "timeDay": 99,
+    "timeWeek": 212,
+    "timeMonth": 259,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-09-27": 154,
+      "2025-09-28": 50,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1147,8 +1148,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svpfiber.com.ico",
     "slug": "fiber-connect",
     "status": "down",
-    "uptime": "53.23%",
+    "uptime": "53.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 232,
-    "timeDay": 350,
-    "timeWeek": 238,
-    "timeMonth": 240,
-    "timeYear": 214,
+    "timeDay": 372,
+    "timeWeek": 273,
+    "timeMonth": 244,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-09-27": 154,
+      "2025-09-28": 50,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1531,8 +1532,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
     "status": "down",
-    "uptime": "53.23%",
+    "uptime": "53.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 311,
-    "timeDay": 228,
-    "timeWeek": 314,
-    "timeMonth": 306,
-    "timeYear": 305,
+    "time": 310,
+    "timeDay": 160,
+    "timeWeek": 287,
+    "timeMonth": 298,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2025-09-27": 154,
+      "2025-09-28": 50,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -1915,8 +1916,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   },
   {
@@ -1930,11 +1930,11 @@
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "96.26%",
-    "time": 379,
-    "timeDay": 476,
-    "timeWeek": 388,
-    "timeMonth": 414,
-    "timeYear": 368,
+    "time": 380,
+    "timeDay": 546,
+    "timeWeek": 413,
+    "timeMonth": 418,
+    "timeYear": 369,
     "dailyMinutesDown": {
       "2025-09-27": 71,
       "2025-09-11": 91,
@@ -1978,14 +1978,14 @@
     "slug": "accela",
     "status": "up",
     "uptime": "98.63%",
-    "uptimeDay": "96.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.73%",
-    "time": 578,
-    "timeDay": 3064,
-    "timeWeek": 1664,
-    "timeMonth": 734,
+    "time": 541,
+    "timeDay": 211,
+    "timeWeek": 1665,
+    "timeMonth": 721,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2025-09-26": 52,
@@ -2017,8 +2017,7 @@
       "2024-11-06": 22,
       "2024-10-30": 78,
       "2024-10-09": 117,
-      "2024-10-02": 47,
-      "2024-09-28": 19
+      "2024-10-02": 47
     }
   },
   {
@@ -2033,12 +2032,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 267,
-    "timeDay": 291,
-    "timeWeek": 290,
-    "timeMonth": 264,
-    "timeYear": 252,
+    "timeDay": 176,
+    "timeWeek": 273,
+    "timeMonth": 258,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-09-27": 154,
+      "2025-09-28": 50,
+      "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
@@ -2401,8 +2401,7 @@
       "2024-10-02": 1440,
       "2024-10-01": 1440,
       "2024-09-30": 1440,
-      "2024-09-29": 1440,
-      "2024-09-28": 1440
+      "2024-09-29": 1440
     }
   }
 ]
