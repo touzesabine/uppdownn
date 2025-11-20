@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.santaclaraca.gov.ico",
     "slug": "city-of-santa-clara",
     "status": "down",
-    "uptime": "50.68%",
+    "uptime": "50.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 234,
-    "timeDay": 103,
-    "timeWeek": 258,
+    "timeDay": 111,
+    "timeWeek": 199,
     "timeMonth": 248,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-11-19": 49,
+      "2025-11-20": 47,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -379,8 +380,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
-    "uptime": "50.67%",
+    "uptime": "50.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 234,
-    "timeDay": 115,
-    "timeWeek": 241,
-    "timeMonth": 262,
+    "timeDay": 222,
+    "timeWeek": 219,
+    "timeMonth": 261,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2025-11-19": 49,
+      "2025-11-20": 47,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -763,8 +764,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
     "status": "down",
-    "uptime": "50.67%",
+    "uptime": "50.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 239,
-    "timeDay": 128,
-    "timeWeek": 215,
-    "timeMonth": 214,
+    "time": 240,
+    "timeDay": 154,
+    "timeWeek": 204,
+    "timeMonth": 212,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-11-19": 49,
+      "2025-11-20": 47,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -1147,8 +1148,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svpfiber.com.ico",
     "slug": "fiber-connect",
     "status": "down",
-    "uptime": "50.67%",
+    "uptime": "50.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 228,
-    "timeDay": 85,
-    "timeWeek": 251,
-    "timeMonth": 287,
+    "timeDay": 204,
+    "timeWeek": 231,
+    "timeMonth": 281,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-11-19": 49,
+      "2025-11-20": 47,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -1531,8 +1532,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
     "status": "down",
-    "uptime": "50.67%",
+    "uptime": "50.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 305,
-    "timeDay": 253,
-    "timeWeek": 262,
-    "timeMonth": 294,
+    "timeDay": 247,
+    "timeWeek": 249,
+    "timeMonth": 292,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2025-11-19": 49,
+      "2025-11-20": 47,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -1915,8 +1916,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   },
   {
@@ -1930,10 +1930,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.26%",
-    "time": 371,
-    "timeDay": 478,
-    "timeWeek": 476,
-    "timeMonth": 542,
+    "time": 370,
+    "timeDay": 188,
+    "timeWeek": 433,
+    "timeMonth": 538,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-09-27": 71,
@@ -1983,9 +1983,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 507,
-    "timeDay": 276,
-    "timeWeek": 371,
-    "timeMonth": 323,
+    "timeDay": 232,
+    "timeWeek": 349,
+    "timeMonth": 318,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2025-10-17": 19,
@@ -2021,18 +2021,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/home.sccgov.org.ico",
     "slug": "santa-clara-county",
     "status": "down",
-    "uptime": "4.52%",
+    "uptime": "4.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 251,
-    "timeDay": 74,
-    "timeWeek": 215,
-    "timeMonth": 230,
-    "timeYear": 254,
+    "timeDay": 220,
+    "timeWeek": 204,
+    "timeMonth": 229,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-11-19": 49,
+      "2025-11-20": 47,
+      "2025-11-19": 1440,
       "2025-11-18": 1440,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
@@ -2395,8 +2396,7 @@
       "2024-11-24": 1440,
       "2024-11-23": 1440,
       "2024-11-22": 1440,
-      "2024-11-21": 1440,
-      "2024-11-20": 1440
+      "2024-11-21": 1440
     }
   }
 ]
