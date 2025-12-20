@@ -1,7 +1,7 @@
 url: https://home.sccgov.org/home
-status: degraded
+status: down
 code: 403
-responseTime: 14957
-lastUpdated: 2025-12-20T11:35:57.505Z
+responseTime: 260
+lastUpdated: 2025-12-20T11:43:25.179Z
 startTime: 2022-12-01T18:41:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
