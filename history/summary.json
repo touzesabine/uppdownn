@@ -16,7 +16,7 @@
     "timeMonth": 221,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2026-04-10": 77,
+      "2026-04-10": 123,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 232,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2026-04-10": 77,
+      "2026-04-10": 123,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 241,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-04-10": 77,
+      "2026-04-10": 123,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 245,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2026-04-10": 77,
+      "2026-04-10": 124,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
     "status": "down",
-    "uptime": "44.88%",
+    "uptime": "44.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1552,7 +1552,7 @@
     "timeMonth": 267,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2026-04-10": 77,
+      "2026-04-10": 124,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -1924,9 +1924,9 @@
     "url": "https://santaclara.legistar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/santaclara.legistar.com.ico",
     "slug": "legistar",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "96.11%",
@@ -1936,6 +1936,7 @@
     "timeMonth": 373,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2026-04-10": 0,
       "2026-04-05": 30,
       "2026-03-17": 35,
       "2026-02-28": 16,
@@ -2075,7 +2076,7 @@
     "timeMonth": 179,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2026-04-10": 77,
+      "2026-04-10": 124,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
