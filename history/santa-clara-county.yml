@@ -1,7 +1,7 @@
 url: https://home.sccgov.org/home
-status: up
-code: 200
-responseTime: 266
-lastUpdated: 2026-05-23T16:33:49.052Z
+status: down
+code: 403
+responseTime: 34
+lastUpdated: 2026-05-23T17:36:41.232Z
 startTime: 2022-12-01T18:41:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
