@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.santaclaraca.gov.ico",
     "slug": "city-of-santa-clara",
     "status": "down",
-    "uptime": "43.25%",
+    "uptime": "43.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 78,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-05-27": 128,
+      "2026-05-27": 353,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 90,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-05-27": 128,
+      "2026-05-27": 354,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
     "status": "down",
-    "uptime": "43.24%",
+    "uptime": "43.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -784,7 +784,7 @@
     "timeMonth": 96,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-05-27": 128,
+      "2026-05-27": 354,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 95,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-05-27": 128,
+      "2026-05-27": 354,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
     "status": "down",
-    "uptime": "43.24%",
+    "uptime": "43.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1552,7 +1552,7 @@
     "timeMonth": 95,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2026-05-27": 128,
+      "2026-05-27": 354,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
@@ -1924,15 +1924,15 @@
     "url": "https://santaclara.legistar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/santaclara.legistar.com.ico",
     "slug": "legistar",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "96.03%",
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "82.02%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "95.99%",
     "time": 398,
-    "timeDay": 231,
-    "timeWeek": 304,
+    "timeDay": 295,
+    "timeWeek": 311,
     "timeMonth": 354,
     "timeYear": 393,
     "dailyMinutesDown": {
@@ -1981,7 +1981,7 @@
       "2026-04-10": 169,
       "2026-04-17": 100,
       "2026-05-11": 209,
-      "2026-05-27": 34
+      "2026-05-27": 259
     }
   },
   {
@@ -2434,7 +2434,7 @@
       "2026-05-22": 1039,
       "2026-05-23": 1321,
       "2026-05-24": 1389,
-      "2026-05-27": 128,
+      "2026-05-27": 354,
       "2026-05-26": 1440,
       "2026-05-25": 1440
     }
