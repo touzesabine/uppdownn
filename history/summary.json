@@ -16,7 +16,7 @@
     "timeMonth": 67,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-05-30": 522,
+      "2026-05-30": 629,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 75,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-05-30": 522,
+      "2026-05-30": 629,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 77,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-05-30": 522,
+      "2026-05-30": 629,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 82,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-05-30": 522,
+      "2026-05-30": 629,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 72,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2026-05-30": 522,
+      "2026-05-30": 629,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -1926,7 +1926,7 @@
     "slug": "legistar",
     "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "90.92%",
+    "uptimeDay": "98.32%",
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "95.94%",
@@ -2060,17 +2060,17 @@
     "url": "https://home.sccgov.org/home",
     "icon": "https://icons.duckduckgo.com/ip3/home.sccgov.org.ico",
     "slug": "santa-clara-county",
-    "status": "down",
+    "status": "up",
     "uptime": "3.92%",
-    "uptimeDay": "14.83%",
-    "uptimeWeek": "3.80%",
+    "uptimeDay": "14.86%",
+    "uptimeWeek": "3.81%",
     "uptimeMonth": "4.98%",
     "uptimeYear": "0.30%",
     "time": 260,
-    "timeDay": 73,
+    "timeDay": 75,
     "timeWeek": 87,
     "timeMonth": 87,
-    "timeYear": 262,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2026-05-07": 1311,
       "2026-05-06": 1440,
@@ -2436,7 +2436,7 @@
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
-      "2026-05-30": 377
+      "2026-05-30": 484
     }
   }
 ]
