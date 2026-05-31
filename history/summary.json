@@ -16,7 +16,7 @@
     "timeMonth": 65,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-05-31": 620,
+      "2026-05-31": 784,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
-    "uptime": "43.10%",
+    "uptime": "43.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 73,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-05-31": 620,
+      "2026-05-31": 784,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 75,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-05-31": 620,
+      "2026-05-31": 784,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svpfiber.com.ico",
     "slug": "fiber-connect",
     "status": "down",
-    "uptime": "43.10%",
+    "uptime": "43.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1168,7 +1168,7 @@
     "timeMonth": 81,
     "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-05-31": 620,
+      "2026-05-31": 784,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 71,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2026-05-31": 620,
+      "2026-05-31": 784,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
@@ -1934,7 +1934,7 @@
     "timeDay": 384,
     "timeWeek": 274,
     "timeMonth": 345,
-    "timeYear": 390,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-06-21": 18,
@@ -2061,17 +2061,17 @@
     "url": "https://home.sccgov.org/home",
     "icon": "https://icons.duckduckgo.com/ip3/home.sccgov.org.ico",
     "slug": "santa-clara-county",
-    "status": "down",
+    "status": "up",
     "uptime": "3.94%",
-    "uptimeDay": "29.24%",
-    "uptimeWeek": "6.80%",
+    "uptimeDay": "18.48%",
+    "uptimeWeek": "6.30%",
     "uptimeMonth": "2.65%",
     "uptimeYear": "0.38%",
-    "time": 259,
-    "timeDay": 72,
-    "timeWeek": 78,
-    "timeMonth": 86,
-    "timeYear": 260,
+    "time": 258,
+    "timeDay": 66,
+    "timeWeek": 58,
+    "timeMonth": 85,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2026-05-07": 1311,
       "2026-05-06": 1440,
@@ -2437,7 +2437,7 @@
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-30": 874,
-      "2026-05-31": 620
+      "2026-05-31": 784
     }
   }
 ]
