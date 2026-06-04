@@ -16,7 +16,7 @@
     "timeMonth": 54,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-06-04": 711,
+      "2026-06-04": 858,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 59,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-06-04": 711,
+      "2026-06-04": 858,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
     "status": "down",
-    "uptime": "42.96%",
+    "uptime": "42.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 61,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2026-06-04": 711,
+      "2026-06-04": 858,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 62,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-06-04": 711,
+      "2026-06-04": 858,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
     "status": "down",
-    "uptime": "42.96%",
+    "uptime": "42.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1552,7 +1552,7 @@
     "timeMonth": 55,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2026-06-04": 711,
+      "2026-06-04": 859,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440,
@@ -1924,17 +1924,17 @@
     "url": "https://santaclara.legistar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/santaclara.legistar.com.ico",
     "slug": "legistar",
-    "status": "down",
+    "status": "up",
     "uptime": "98.81%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "97.80%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "95.94%",
+    "uptimeDay": "89.79%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "95.92%",
     "time": 398,
-    "timeDay": 293,
-    "timeWeek": 290,
-    "timeMonth": 335,
-    "timeYear": 391,
+    "timeDay": 226,
+    "timeWeek": 274,
+    "timeMonth": 330,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2025-06-14": 18,
       "2025-06-21": 18,
@@ -1983,7 +1983,7 @@
       "2026-05-11": 209,
       "2026-05-27": 259,
       "2026-05-29": 221,
-      "2026-06-04": 1
+      "2026-06-04": 147
     }
   },
   {
@@ -2434,7 +2434,7 @@
       "2026-05-25": 1440,
       "2026-05-30": 874,
       "2026-05-31": 1331,
-      "2026-06-04": 712,
+      "2026-06-04": 859,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
       "2026-06-01": 1440
