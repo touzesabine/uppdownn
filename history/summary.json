@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.santaclaraca.gov.ico",
     "slug": "city-of-santa-clara",
     "status": "down",
-    "uptime": "41.54%",
+    "uptime": "41.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 59,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-07-19": 378,
+      "2026-07-19": 516,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 87,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-07-19": 379,
+      "2026-07-19": 516,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 52,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-07-19": 379,
+      "2026-07-19": 516,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svpfiber.com.ico",
     "slug": "fiber-connect",
     "status": "down",
-    "uptime": "41.53%",
+    "uptime": "41.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1168,7 +1168,7 @@
     "timeMonth": 52,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-07-19": 379,
+      "2026-07-19": 516,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.sclibrary.org.ico",
     "slug": "santa-clara-city-library",
     "status": "down",
-    "uptime": "41.53%",
+    "uptime": "41.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1552,7 +1552,7 @@
     "timeMonth": 58,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2026-07-19": 379,
+      "2026-07-19": 516,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1976,16 +1976,16 @@
     "url": "https://aca-prod.accela.com/santaclara",
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "accela",
-    "status": "degraded",
-    "uptime": "98.86%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.48%",
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "90.46%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "99.45%",
     "time": 442,
-    "timeDay": 10674,
-    "timeWeek": 2290,
-    "timeMonth": 797,
+    "timeDay": 7204,
+    "timeWeek": 2312,
+    "timeMonth": 783,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2025-07-25": 56,
@@ -2039,7 +2039,7 @@
       "2026-05-31": 136,
       "2026-07-06": 240,
       "2026-07-12": 121,
-      "2026-07-19": 1
+      "2026-07-19": 137
     }
   },
   {
@@ -2423,7 +2423,7 @@
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
-      "2026-07-19": 379
+      "2026-07-19": 516
     }
   }
 ]
