@@ -16,7 +16,7 @@
     "timeMonth": 59,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-07-19": 516,
+      "2026-07-19": 730,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
-    "uptime": "41.53%",
+    "uptime": "41.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -400,7 +400,7 @@
     "timeMonth": 87,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-07-19": 516,
+      "2026-07-19": 730,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 52,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-07-19": 516,
+      "2026-07-19": 730,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 52,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-07-19": 516,
+      "2026-07-19": 730,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 58,
     "timeYear": 287,
     "dailyMinutesDown": {
-      "2026-07-19": 516,
+      "2026-07-19": 730,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -1979,12 +1979,12 @@
     "status": "up",
     "uptime": "98.85%",
     "uptimeDay": "90.46%",
-    "uptimeWeek": "98.21%",
+    "uptimeWeek": "98.64%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.45%",
     "time": 442,
     "timeDay": 7204,
-    "timeWeek": 2312,
+    "timeWeek": 2542,
     "timeMonth": 783,
     "timeYear": 474,
     "dailyMinutesDown": {
@@ -2047,16 +2047,16 @@
     "url": "https://home.sccgov.org/home",
     "icon": "https://icons.duckduckgo.com/ip3/home.sccgov.org.ico",
     "slug": "santa-clara-county",
-    "status": "down",
+    "status": "up",
     "uptime": "3.90%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "2.22%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "2.23%",
     "uptimeMonth": "5.81%",
     "uptimeYear": "0.77%",
     "time": 237,
-    "timeDay": 16,
-    "timeWeek": 86,
-    "timeMonth": 96,
+    "timeDay": 80,
+    "timeWeek": 91,
+    "timeMonth": 97,
     "timeYear": 230,
     "dailyMinutesDown": {
       "2026-05-07": 1311,
@@ -2423,7 +2423,7 @@
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
-      "2026-07-19": 516
+      "2026-07-19": 730
     }
   }
 ]
