@@ -16,7 +16,7 @@
     "timeMonth": 54,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2026-08-02": 88,
+      "2026-08-02": 435,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
-    "uptime": "41.11%",
+    "uptime": "41.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 54,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-08-02": 88,
+      "2026-08-02": 435,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -773,7 +773,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
     "status": "down",
-    "uptime": "41.10%",
+    "uptime": "41.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -784,7 +784,7 @@
     "timeMonth": 50,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2026-08-02": 88,
+      "2026-08-02": 435,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 51,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-08-02": 88,
+      "2026-08-02": 435,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 55,
     "timeYear": 276,
     "dailyMinutesDown": {
-      "2026-08-02": 88,
+      "2026-08-02": 435,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1924,13 +1924,13 @@
     "url": "https://santaclara.legistar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/santaclara.legistar.com.ico",
     "slug": "legistar",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 393,
+    "time": 394,
     "timeDay": 250,
     "timeWeek": 252,
     "timeMonth": 268,
@@ -1966,7 +1966,8 @@
       "2026-05-27": 259,
       "2026-05-29": 221,
       "2026-06-04": 147,
-      "2026-06-21": 130
+      "2026-06-21": 130,
+      "2026-08-02": 0
     }
   },
   {
@@ -2417,7 +2418,7 @@
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
-      "2026-08-02": 89,
+      "2026-08-02": 436,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
