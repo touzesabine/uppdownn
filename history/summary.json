@@ -16,7 +16,7 @@
     "timeMonth": 72,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2026-10-31": 180,
+      "2026-10-31": 450,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
-    "uptime": "38.55%",
+    "uptime": "38.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 70,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2026-10-31": 180,
+      "2026-10-31": 450,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 64,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2026-10-31": 180,
+      "2026-10-31": 450,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 67,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2026-10-31": 181,
+      "2026-10-31": 450,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -1552,7 +1552,7 @@
     "timeMonth": 62,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2026-10-31": 181,
+      "2026-10-31": 450,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -1973,17 +1973,17 @@
     "url": "https://aca-prod.accela.com/santaclara",
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "accela",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.43%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "97.45%",
     "uptimeYear": "99.21%",
     "time": 475,
-    "timeDay": 145,
-    "timeWeek": 225,
+    "timeDay": 126,
+    "timeWeek": 211,
     "timeMonth": 214,
-    "timeYear": 483,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2025-11-22": 25,
       "2025-11-29": 25,
@@ -2039,7 +2039,8 @@
       "2026-08-26": 44,
       "2026-09-30": 393,
       "2026-10-03": 315,
-      "2026-10-06": 417
+      "2026-10-06": 417,
+      "2026-10-31": 1
     }
   },
   {
@@ -2349,7 +2350,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1429,
-      "2026-10-31": 181,
+      "2026-10-31": 450,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
